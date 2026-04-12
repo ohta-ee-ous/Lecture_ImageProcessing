@@ -1,2 +1,3 @@
 # Lecture_ImageProcessing
-画像工学 講義用
+このリポジトリは配布専用です。
+Pull Request や Issue は受け付けておりません。
